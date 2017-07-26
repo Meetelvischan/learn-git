@@ -3,7 +3,4 @@ Git is free software distributed under the GPL.
 Git has a mutable index called stage.
 <<<<<<< HEAD
 Checkout branch!
-=======
-Checkout branch!
-Checkout branch~
->>>>>>> dev
+dev mode!
